@@ -1,2 +1,1 @@
-Three payloads in one Nano DNS kstuf shadowmountplus
-Three in one: nano dns, .kstuf, .shadowmountplus. To make injection easier.
+Three-in-one: nano dns, .kstuf, .shadowmountplus. To make injection easier for the PS5.
